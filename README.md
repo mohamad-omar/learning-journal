@@ -6,7 +6,7 @@
 3. *accept the conflict*
 
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png)
+![image](https://images.squarespace-cdn.com/content/v1/50b88908e4b012760ada1011/1570306534270-4JN02S55IY4301CTQPEW/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI7Hk5b7wKtplcrxPf3ag-g6VC0ObVEO8cEICumLtlwuA/growth_mindset_activities)
    
    
 [my gethub account](https://github.com/mohamad-omar/learning-journal)
